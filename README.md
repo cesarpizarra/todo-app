@@ -29,5 +29,5 @@ To run the project locally, follow these steps:
    ```bash
    git clone [repository-url]
 2. Install the dependencies:
-cd todo-app
-npm install
+$ cd todo-app
+$ npm install
